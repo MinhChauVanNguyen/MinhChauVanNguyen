@@ -1,4 +1,4 @@
-### Thanks for stopping by :rainbow:
+### Hello :rainbow:
 
 
 What I have been up to:
@@ -11,6 +11,13 @@ What I have been up to:
 What I want to do next:
 
 - :gem: Build a shiny mobile-friendly app based on Bayesian analysis
-- :white-flower: Attempt ```flexdashboard``` and start using ```callModule()```
-- :blue-car: Learn how to drive
+- :white_flower: Attempt ```flexdashboard```
+- :blue_car: Learn how to drive
+
+Current read:
+
+- :books:
+
+
+### Thanks for stopping by
 
