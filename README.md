@@ -14,7 +14,3 @@ What I want to do next:
 - :white-flower: Attempt ```flexdashboard``` and start using ```callModule()```
 - :blue-car: Learn how to drive
 
-CURRENT READ:
-
-- ![pink](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-
