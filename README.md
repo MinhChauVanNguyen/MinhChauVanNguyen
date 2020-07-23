@@ -1,4 +1,4 @@
-### Hello <img src = "https://giphy.com/gifs/weatherunderground-weather-underground-wunderground-l41YePgsv92CTdTVe/fullscreen" width = "40">
+### Hello <img src="https://media.giphy.com/media/l41YePgsv92CTdTVe/giphy.gif" width="30px"></h2>
 
 
 What I have been up to:
