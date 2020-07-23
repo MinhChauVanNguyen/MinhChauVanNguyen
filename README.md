@@ -6,7 +6,7 @@
 
 What I have been up to:
 
-- :computer: Finishing a report on multinomial logistic regression
+- :cherry_blossom: Finishing a report on multinomial logistic regression
 <br> and survival analysis for health data
 - :gem: Re-writing my CV in ```R``` using ```pagedown```
 - :money_with_wings: Searching for a cool job
