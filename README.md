@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" width="30px"></h2>
+<img src="https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" width="40px"></h2> <h2>Hello</h2>
 
 
 What I have been up to:
