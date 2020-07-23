@@ -19,5 +19,4 @@ Current read:
 - :books:
 
 
-### Thanks for stopping by
-
+(https://img.shields.io/badge/-contact-pink?style=for-the-badge&link=mailto:minh.chau@outlook.co.nz)
