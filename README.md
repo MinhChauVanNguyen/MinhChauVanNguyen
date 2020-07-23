@@ -13,8 +13,9 @@ What I have been up to:
 
 Current read:
 
-- :books: **Generalized Linear Models with examples in R** by *Peter K.Dunn* and *Gordon K.Smyth*
+- :purple_heart: **Generalized Linear Models with examples in R** by *Peter K.Dunn* and *Gordon K.Smyth*
 
+<br>
 
 [![email](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=minhchauvannguyen.github.io)](minhchauvannguyen.github.io)
