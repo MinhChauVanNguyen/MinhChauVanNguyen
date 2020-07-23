@@ -1,15 +1,14 @@
-### Hello 
+### Thanks for stopping by :rainbow:
 
 
-What I have been up to
+What I have been up to:
 
-- :computer: I’m currently writing a report on multinomial logistic regression
-<br> and survival
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Finishing a report on <span style = "color:pink">multinomial logistic regression</span>
+<br> and survival analysis for health data
+- :gem: Re-writing my CV in R using pagedown
+- :money_with_wings: Searching for a job that I deserve
+
+What I want to do next:
+
+- :gem: Build a shiny mobile-friendly app based on Bayesian analysis
+- :white-flower: Attempt 
