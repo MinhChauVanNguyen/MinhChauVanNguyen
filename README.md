@@ -5,7 +5,7 @@ What I have been up to:
 
 - :computer: Finishing a report on multinomial logistic regression
 <br> and survival analysis for health data
-- :gem: Re-writing my CV in R using pagedown
+- :gem: Re-writing my CV in ```R``` using ```pagedown```
 - :money_with_wings: Searching for a job that I deserve
 
 What I want to do next:
