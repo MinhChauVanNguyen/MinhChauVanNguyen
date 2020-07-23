@@ -3,7 +3,7 @@
 
 What I have been up to:
 
-- :computer: Finishing a report on <span style = "color:pink">multinomial logistic regression</span>
+- :computer: Finishing a report on <span style = "color:pink;">multinomial logistic regression</span>
 <br> and survival analysis for health data
 - :gem: Re-writing my CV in R using pagedown
 - :money_with_wings: Searching for a job that I deserve
