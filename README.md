@@ -7,7 +7,7 @@
 <samp>
 Interested in:
   
-<br><br>
+<br>
 
 - <img src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink">
 
