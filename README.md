@@ -6,8 +6,8 @@
 
 <samp>
 Interested in:
-  
-<div margin-top = "20px">
+ 
+<div style="margin-top = 60px;">
 
 - <img src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink">
 
