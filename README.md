@@ -7,9 +7,11 @@
 <samp>
 Interested in:
   
-<br>
+<div margin-top = "20px">
 
 - <img src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink">
+
+</div>
 
 What I have been up to:
 
