@@ -7,11 +7,10 @@
 <samp>
 Interested in:
  
-<div style="margin-top = 60px;">
-</div>
-
+<p style = "margin-top:40px">
+ 
 - <img src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink">
-
+</p>
 
 
 What I have been up to:
