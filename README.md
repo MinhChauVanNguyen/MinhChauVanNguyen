@@ -17,7 +17,7 @@ What I have been up to:
 
 Current read:
 
-- :purple_heart: **Generalized Linear Models with examples in R** by *Peter K.Dunn* and *Gordon K.Smyth*
+- :blue_heart: **Generalized Linear Models with examples in R** by *Peter K.Dunn* and *Gordon K.Smyth*
 
 <br>
 
