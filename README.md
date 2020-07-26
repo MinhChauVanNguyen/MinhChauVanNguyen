@@ -21,7 +21,7 @@ What I have been up to:
 - :cherry_blossom: Finishing a report on multinomial logistic regression
 <br> and survival analysis for health data
 - :gem: Re-writing my CV in ```R``` using ```pagedown```
-- :money_with_wings: Searching for a cool job
+- :money_with_wings: Looking for a job
 
 Current read:
 
