@@ -4,7 +4,7 @@
 <img src = "https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" height = "50px"></h2> 
 <img src = "https://media.giphy.com/media/3og0IOUWB5AZoP6la0/giphy.gif" height = "50px"></h2> 
 
-<img width = "35%" align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />
 
 <samp>
 Interested in:
