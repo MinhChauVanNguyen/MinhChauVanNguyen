@@ -9,8 +9,8 @@ Interested in:
  
 <p style = "margin-top:40px">
 
-- <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px"><img align = "center" src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink">
-</p>
+- <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px"><img align = "left" src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink"></p>
+
 
 
 What I have been up to:
@@ -18,7 +18,7 @@ What I have been up to:
 - :cherry_blossom: Finishing a report on multinomial logistic regression
 <br> and survival analysis for health data
 - :gem: Re-writing my CV in ```R``` using ```pagedown```
-- :money_with_wings: Searching for a cool job
+- :money_with_wings: Searching for a cool jobpan
 
 Current read:
 
@@ -28,7 +28,7 @@ Current read:
 <br>
 
 
-[![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)<img src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif" width= "30px">
+<img src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif" width= "30px">[![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
 [![linkedin](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/minh-chau-van/)](https://www.linkedin.com/in/minh-chau-van/)
 
