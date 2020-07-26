@@ -11,7 +11,7 @@ Interested in:
  
 <p style = "margin-top:40px">
 
-- <!--<img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">-->
+ <!--<img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">-->
 - <img align = "left" src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink"></p>
 
 
