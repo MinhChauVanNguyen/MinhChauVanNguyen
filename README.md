@@ -18,9 +18,8 @@ Interested in:
 
 What I have been up to:
 
-- :cherry_blossom: Finishing a report on multinomial logistic regression
-<br> and survival analysis for health data
-- :gem: Re-writing my CV in ```R``` using ```pagedown```
+- :cherry_blossom: Re-writing a statistical report on Linear Regression Model
+- :gem: Building a Shiny mobile app based on Bayesian statistics
 - :money_with_wings: Looking for a job
 
 Current read:
