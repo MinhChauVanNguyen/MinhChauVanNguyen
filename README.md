@@ -6,7 +6,13 @@
 
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
-<div dir="rtl">**Just for fun stats**:</div>
+<samp>
+ 
+<div dir="rtl"> 
+ 
+ **Just for fun stats** 
+ 
+</div>
 
 
 
@@ -14,7 +20,6 @@
 
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 
-<samp>
 
 <br>
 
