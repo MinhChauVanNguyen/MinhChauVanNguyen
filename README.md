@@ -39,7 +39,7 @@
  
 
 
-<img width = "50%"  alt="GIF" src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif">
+<img width = "40%" height = "200px"  alt="GIF" src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif">
 
 <br><br><br><br><br><br><br><br>
 
