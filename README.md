@@ -21,7 +21,7 @@
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 
 
-<br>
+
 
 **Interested in**:
  
