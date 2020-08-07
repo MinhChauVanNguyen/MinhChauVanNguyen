@@ -37,7 +37,7 @@
  
  - :gem: Predictive analytics
  
-
+ - :bread: Data visualization
 
 <br><br><br><br><br><br><br><br>
 
