@@ -40,13 +40,13 @@
 
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 [![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
 <img src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif" width= "50px" align = "left" margin-bottom = "50px">
 [![linkedin](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/minh-chau-van/)](https://www.linkedin.com/in/minh-chau-van/)
-[![reddit](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)
+[![reddit](https://img.shields.io/badge/-reddit-black?color=hotpink&style=for-the-badge&logo=reddit&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)
 
 
 
