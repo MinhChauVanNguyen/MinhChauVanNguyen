@@ -16,15 +16,11 @@ Interested in:
 
 
 
-What I have been up to:
+Some stats:
 
-- :cherry_blossom: Re-writing a statistical report on Linear Regression Model in Latex
-- :gem: Building a Shiny mobile app based on Bayesian statistics
-- :money_with_wings: Looking for a job
+<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif">
 
-Current read:
 
-- :blue_heart: **Generalized Linear Models with examples in R** by *Peter K.Dunn* and *Gordon K.Smyth*
 
 </samp>
 <br>
