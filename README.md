@@ -4,7 +4,7 @@
 <img src = "https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" height = "50px"></h2> 
 <img src = "https://media.giphy.com/media/3og0IOUWB5AZoP6la0/giphy.gif" height = "50px"></h2>-->
 
-<kbd>hello</kbd> <kbd>my name is M i n h</kbd> <kbd>M is for :money_with_wings:</kbd> 
+<kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
 
 [![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
