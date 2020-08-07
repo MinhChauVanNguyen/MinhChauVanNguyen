@@ -10,7 +10,7 @@
 <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />
 
 <samp>
-**Interested in**:
+**Interested in** :
  
 <p style = "margin-top:25px;">
 
