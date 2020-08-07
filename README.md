@@ -20,12 +20,13 @@
  
 <p style = "margin-top:25px;">
 
-<img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
 
-- :cherry_blossom: Statistical modelling
-- :gem: Predictive analytics
-- <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
+ - :cherry_blossom: Statistical modelling
+ 
+ - :gem: Predictive analytics
+ 
+ - <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
 
 
 <br>
