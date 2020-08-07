@@ -19,7 +19,7 @@
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
 
-<br>
+
 
 
 <!-- <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />-->
