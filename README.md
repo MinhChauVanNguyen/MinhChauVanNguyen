@@ -28,7 +28,7 @@
 **Just for fun stats**:
 
 
-<p style = "margin-bottom:200px;"><img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px"></p>
+<p style = "margin-bottom:200px;"><img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "500px"></p>
 
 </samp>
 
