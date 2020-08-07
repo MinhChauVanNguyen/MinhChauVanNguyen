@@ -6,7 +6,6 @@
 
 <kbd>hello</kbd>
 
-<hr style="border:2px solid pink">
 
 <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />
 
@@ -20,7 +19,7 @@ Interested in:
 
 - :cherry_blossom: Statistical modelling
 - :gem: Predictive analytics
-- [![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
+- :blue_heart:[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
 
 
 <br>
@@ -34,7 +33,7 @@ Just for fun stats:
 
 <br>
 
-<hr>
+
 
 <img src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif" width= "50px" align = "right" margin-bottom = "50px">[![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
