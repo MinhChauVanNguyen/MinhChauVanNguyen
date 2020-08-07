@@ -4,7 +4,9 @@
 <img src = "https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" height = "50px"></h2> 
 <img src = "https://media.giphy.com/media/3og0IOUWB5AZoP6la0/giphy.gif" height = "50px"></h2>-->
 
-<hr>
+<kbd>hello</kbd>
+
+<hr style = "color:pink;">
 
 <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />
 
@@ -21,10 +23,9 @@ Interested in:
 - [![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
 
 
-
 <br>
 
-Some stats:
+Just for fun stats:
 
 
 <img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px">
