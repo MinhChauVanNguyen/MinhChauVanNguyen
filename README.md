@@ -33,11 +33,11 @@
 
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
 
- - ### :cherry_blossom: Statistical modelling 
+ - ### :cherry_blossom: R Shiny
  
- - ### :gem: Predictive analytics
+ - ### :gem: Predictive modelling
  
- - ### :bread: Data visualization
+ - ### :bread: Bayesian statistics
  
 
 
