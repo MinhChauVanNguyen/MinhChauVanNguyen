@@ -21,9 +21,9 @@
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 
 
+<p style = "margin-top:-40px;">
 
-
-**Interested in**:
+**Interested in**: </p>
  
 <p style = "margin-top:25px;">
 
