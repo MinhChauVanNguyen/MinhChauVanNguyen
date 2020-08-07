@@ -14,6 +14,7 @@ Interested in:
  <!--<img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">-->
 - <img align = "left" src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink"></p>
 
+<br>
 
 Some stats:
 
@@ -21,8 +22,8 @@ Some stats:
 <img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px">
 
 </samp>
-<br>
 
+<br><br>
 
 <img src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif" width= "50px" align = "right">[![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
