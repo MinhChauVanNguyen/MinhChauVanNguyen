@@ -25,11 +25,11 @@
 <!-- <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />-->
 
 
-
-
-## Interested in: 
  
 <p style = "margin-top:25px;">
+
+## Interested in: 
+
 
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
 
@@ -38,6 +38,8 @@
  - ### :gem: Predictive analytics
  
  - ### :bread: Data visualization
+ 
+</p>
 
 <br><br><br><br><br>
 
