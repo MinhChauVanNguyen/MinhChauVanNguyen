@@ -9,7 +9,7 @@
 <samp>
 Interested in:
  
-<p style = "margin-top:40px; margin-bottom:40px;">
+<p style = "margin-top:40px;">
 
  <!--<img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">-->
 - <img align = "left" src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink"></p>
@@ -17,9 +17,9 @@ Interested in:
 
 
 Some stats:
-<p style = "margin-top:-40px">
 
-<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "400px"></p>
+
+<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "400px">
 
 </samp>
 <br>
