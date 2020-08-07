@@ -9,7 +9,7 @@
 
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
-<div dir = "tlr"> 
+<div dir = "rtl"> 
  
  **Some fun stats**
  
