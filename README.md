@@ -24,7 +24,7 @@
 
 <!-- <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />-->
 
-
+ &emsp;
  
  ## Interested in:
 
@@ -40,7 +40,7 @@
  
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 [![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
