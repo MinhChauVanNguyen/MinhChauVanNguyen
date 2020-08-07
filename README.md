@@ -12,14 +12,14 @@
 <samp>
 Interested in:
  
-<p style = "margin-top:40px;">
+<p style = "margin-top:30px;">
 
  <!--<img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">-->
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
 
 - :cherry_blossom: Statistical modelling
 - :gem: Predictive analytics
-- :blue_heart:[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
+- [![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
 
 
 <br>
@@ -27,11 +27,11 @@ Interested in:
 Just for fun stats:
 
 
-<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px">
+<p style = "margin-bottom:80px;"><img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px"></p>
 
 </samp>
 
-<br>
+
 
 
 
