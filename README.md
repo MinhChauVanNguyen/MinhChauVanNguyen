@@ -16,7 +16,8 @@
             
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px">
 
- <p style = "padding-bottom:80px;"><kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd></p>
+
+<p style = "margin-top:20px;"><kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd></p>
 
 
 
