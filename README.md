@@ -9,7 +9,7 @@
 
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
-<br>
+
 
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 [![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
