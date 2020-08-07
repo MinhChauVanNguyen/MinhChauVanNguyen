@@ -38,7 +38,7 @@
  - :gem: Predictive analytics
  
 
-<p style = "margin-top:-40px;"><img width = "40%" height = "200px"  alt="GIF" src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif"></p>
+<p style = "margin-top:-40px;margin-bottom:-30px;"><img width = "40%" height = "200px"  alt="GIF" src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif"></p>
 
 <br><br><br><br><br><br><br><br>
 
