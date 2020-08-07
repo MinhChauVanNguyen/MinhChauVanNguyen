@@ -7,7 +7,7 @@
 <samp>
  
 
-<kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
+<center><kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd></center>
 
 <br>
 
