@@ -10,7 +10,8 @@
 <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />
 
 <samp>
-**Interested in** :
+ 
+**Interested in**:
  
 <p style = "margin-top:25px;">
 
@@ -24,7 +25,7 @@
 
 <br>
 
-Just for fun stats:
+**Just for fun stats**:
 
 
 <p style = "margin-bottom:200px;"><img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px"></p>
