@@ -6,11 +6,6 @@
 
 <samp>
  
- <div dir="rtl"> 
- 
- **Just for fun stats** 
- 
-</div>
 
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
