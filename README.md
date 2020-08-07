@@ -15,11 +15,11 @@ Interested in:
 - <img align = "left" src="https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink"></p>
 
 
-<p style = "margin-top:30px;">
+<p style = "margin-top:40px;">
 Some stats:
+</p>
 
-
-<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px"></p>
+<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "450px">
 
 </samp>
 <br>
