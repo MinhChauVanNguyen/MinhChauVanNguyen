@@ -10,7 +10,6 @@
 
 <div dir = "rtl"> 
  
- **Some fun stats**
  
  </div>
 
