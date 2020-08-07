@@ -6,8 +6,7 @@
 
 <samp>
  
-  
-<div dir="rtl"> 
+ <div dir="rtl"> 
  
  **Just for fun stats** 
  
@@ -17,6 +16,7 @@
 
 <br>
 
+<img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 [![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
 [![linkedin](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/minh-chau-van/)](https://www.linkedin.com/in/minh-chau-van/)
@@ -26,7 +26,6 @@
 
 <!-- <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />-->
 
-<img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 
 
 
