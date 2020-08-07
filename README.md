@@ -10,7 +10,7 @@
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
 
-
+<br>
             
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px">
 
@@ -36,6 +36,8 @@
  
  - <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
 
+
+<br><br><br><br>
 
 [![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
