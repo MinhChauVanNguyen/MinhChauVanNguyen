@@ -16,7 +16,7 @@
             
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px">
 
-<kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
+ <p style = "padding-bottom:80px;"><kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd></p>
 
 
 
@@ -25,11 +25,10 @@
 <!-- <img width = "35%" align="right" alt="GIF" height="450px" src="https://media.giphy.com/media/xT9IgzvnOyNDYnxeHS/giphy.gif" />-->
 
 
- <div style = "padding-top:40px;">
  
  ## Interested in:
 
-</div>
+
 
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
 
