@@ -37,7 +37,7 @@
  
  - :gem: Predictive analytics
  
- - <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
+
 
 
 <br><br><br><br><br><br><br>
@@ -46,7 +46,7 @@
 [![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
 <img src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif" width= "50px" align = "left" margin-bottom = "50px">
 [![linkedin](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/minh-chau-van/)](https://www.linkedin.com/in/minh-chau-van/)
-
+[![reddit](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)
 
 
 
