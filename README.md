@@ -22,7 +22,7 @@
 
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
 
- - :cherry_blossom: Statistical modelling
+ - :cherry_blossom: Statistical modelling 
  
  - :gem: Predictive analytics
  
