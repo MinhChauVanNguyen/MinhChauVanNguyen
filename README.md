@@ -6,6 +6,10 @@
 
 <kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
+[![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
+[![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
+[![linkedin](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/minh-chau-van/)](https://www.linkedin.com/in/minh-chau-van/)
+
 <samp>
  
 <div dir="rtl"> 
@@ -21,9 +25,8 @@
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px"></p>
 
 
-<p style = "margin-top:-40px;">
 
-**Interested in**: </p>
+**Interested in**: 
  
 <p style = "margin-top:25px;">
 
@@ -36,11 +39,9 @@
  - <img align="left" src = "https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif" width="30px">[![reddit](https://img.shields.io/static/v1?label=Data&message=Visualization&color=hotpink&link=https://www.reddit.com/r/dataisbeautiful/)](https://www.reddit.com/r/dataisbeautiful/)</p>
 
 
-<br>
 
-[![mail](https://img.shields.io/badge/-contact-black?color=hotpink&style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:minh.chau@outlook.co.nz)](mailto:minh.chau@outlook.co.nz)
-[![website](https://img.shields.io/badge/-website-black?color=hotpink&style=for-the-badge&logo=google-analytics&logoColor=white&link=https://minhchauvannguyen.github.io/)](https://minhchauvannguyen.github.io/)
-[![linkedin](https://img.shields.io/badge/-linkedin-black?color=hotpink&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/minh-chau-van/)](https://www.linkedin.com/in/minh-chau-van/)
+
+
 
 <!--<p style = "margin-bottom:200px;"><img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "500px"></p>-->
 
