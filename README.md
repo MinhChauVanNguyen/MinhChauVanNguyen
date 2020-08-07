@@ -7,7 +7,6 @@
 <samp>
  
 
-<kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
 <div dir = "rtl"> 
  
@@ -18,6 +17,7 @@
             
 <img align = "right" src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/barplot.gif" width = "500px">
 
+<kbd>hello</kbd> <kbd>my name is m i n h :dango:</kbd>
 
 
 <br>
