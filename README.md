@@ -12,7 +12,7 @@
 
 <samp>
  
-<div dir="rtl"> 
+<div dir="rtl" style = "margin-right:20px;"> 
  
  **Just for fun stats** 
  
