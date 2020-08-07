@@ -17,10 +17,9 @@ Interested in:
 
 
 Some stats:
+<p style = "margin-top:-40px">
 
-<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif">
-
-
+<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif"></p>
 
 </samp>
 <br>
