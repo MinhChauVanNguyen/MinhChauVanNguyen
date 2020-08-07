@@ -26,9 +26,8 @@
 
 
  
-<p style = "margin-top:40px;">
-
-## Interested in: 
+ 
+ ## Interested in:
 
 
 <!-- <img align = "left" src="https://img.shields.io/staic/v1?label=Data&message=Visualization&color=hotpink"></p>-->
@@ -39,7 +38,7 @@
  
  - ### :bread: Data visualization
  
-</p>
+
 
 <br><br><br><br><br>
 
