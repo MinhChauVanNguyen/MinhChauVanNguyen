@@ -19,7 +19,7 @@ Interested in:
 Some stats:
 <p style = "margin-top:-40px">
 
-<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "300px"></p>
+<img src = "https://github.com/MinhChauVanNguyen/MinhChauVanNguyen/blob/master/animated-barplot.gif" width = "400px"></p>
 
 </samp>
 <br>
