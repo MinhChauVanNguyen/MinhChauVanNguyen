@@ -1,8 +1,8 @@
 
-<!--<img src = "https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" height = "50px"></h2> 
+<img src = "https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" height = "50px"></h2> 
 <img src="https://media.giphy.com/media/9JwU9SBhaNQNCuoQBc/giphy.gif" height="50px"></h2> 
 <img src = "https://media.giphy.com/media/sKYkLv7TioLv2/giphy.gif" height = "50px"></h2> 
-<img src = "https://media.giphy.com/media/3og0IOUWB5AZoP6la0/giphy.gif" height = "50px"></h2>-->
+<img src = "https://media.giphy.com/media/3og0IOUWB5AZoP6la0/giphy.gif" height = "50px"></h2>
 
 <samp>
  
